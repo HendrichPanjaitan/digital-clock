@@ -1,0 +1,17 @@
+.Clock {  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 25vh;
+}
+
+.clock {
+  display: flex;
+  justify-content: center;
+  
+}
+.dateday {
+  display: flex;
+  justify-content: center;
+  letter-spacing: 2px;
+}
